@@ -1,5 +1,8 @@
 # Gemini APIs Evaluation Documentation
 
+![Gemini APIs Diagram](https://github.com/abushanisro/gemini-apis-doc/blob/main/assets/images/diagram.png?raw=true)
+
+
 Comprehensive documentation for evaluating Gemini models using popular evaluation frameworks like promptfoo and wandb.
 
 ## Objective
